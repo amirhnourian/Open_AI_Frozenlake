@@ -3,7 +3,7 @@ ytick.color: 323034
 text.color: 323034
 lines.markeredgecolor: black
 patch.facecolor        : bc80bd
-patch.force_edgecolor  : True
+patch.force_edgecolor  : False
 patch.linewidth: 0.8
 scatter.edgecolors: black
 grid.color: b1afb5

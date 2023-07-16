@@ -18,12 +18,12 @@ mathtext.fontset: stix
 font.family: STIXGeneral
 lines.linewidth: 2
 legend.frameon: True
-legend.framealpha: 0.8
+legend.framealpha: 0.75
 legend.fontsize: 10
 legend.edgecolor: 0.9
 legend.borderpad: 0.2
 legend.columnspacing: 1.5
-legend.labelspacing:  0.4
+legend.labelspacing:  0.1
 text.usetex: False
 axes.titlelocation: left
 axes.formatter.use_mathtext: True

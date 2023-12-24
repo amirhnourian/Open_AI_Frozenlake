@@ -39,7 +39,7 @@ cd Open_AI_Frozenlake
 
 ## Usage 
 
-he input data consists of the FrozenLake maps and the hyperparameters for the Q-learning algorithm. The output data is the Q-table after solving Q-learning. You can test the policy with the provided function. Lastly, there is a code available for finding the correct number of policies in a set of given episodes with a sampling coefficient.
+The input data consists of the FrozenLake maps and the hyperparameters for the Q-learning algorithm. The output data is the Q-table after solving Q-learning. You can test the policy with the provided function. Lastly, there is a code available for finding the correct number of policies in a set of given episodes with a sampling coefficient.
 
 To use the code, you need to run each cell in the correct order and follow the instructions provided in the Jupyter file. I recommend that you first read the related paper to familiarize yourself with the code and its purpose. If you have any further questions, please let me know.
 

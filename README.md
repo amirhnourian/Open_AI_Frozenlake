@@ -14,12 +14,12 @@ Make sure to cite the paper by Amirhossein Nourian et al. if you use this code f
 
 This repository contains the following items:
 
---[OpenAI frozen lake environment](https://gymnasium.farama.org/environments/toy_text/frozen_lake/)  from Gymnasium.
---Implementation of the Value Iteration algorithm.
---Implementation of the Q-Learning algorithm.
---Visualization of Q-Learning Algorithm results.
---Published paper related to the code.
---Presentation related to this code in ICROM conference.
+1. [OpenAI frozen lake environment](https://gymnasium.farama.org/environments/toy_text/frozen_lake/)  from Gymnasium.
+2. Implementation of the Value Iteration algorithm.
+3. Implementation of the Q-Learning algorithm.
+4. Visualization of Q-Learning Algorithm results.
+5. Published paper related to the code.
+6. Presentation related to this code in ICROM conference.
 
 ## Setup 
 

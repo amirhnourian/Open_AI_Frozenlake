@@ -2,13 +2,18 @@
 
 # Investigating the Performance and Reliability, of the Q-Learning Algorithm in Various Unknown 2 Dimensional Grid Environments
 
-This Jupyter notebook provides a platform to evaluate the performance and reliability of the Q-learning algorithm in various 2-dimensional environments using the OpenAI gymnasium library. The related paper was published at the Proceedings of the 11th RSI International Conference on Robotics and Mechatronics (ICRoM 2023), held in Tehran, Iran from December 19-21, 2023. You can find the paper and the presentation PowerPoint related to the conference in this repository.
+This Jupyter notebook provides a platform to evaluate the performance and reliability of the Q-learning algorithm in various 2-dimensional environments using the OpenAI gymnasium library. The related paper was published at the Proceedings of the 11th RSI International Conference on Robotics and Mechatronics (ICRoM 2023), held in Tehran, Iran from December 19-21, 2023. You can find the paper and the PowerPoint presentation related to the conference in this repository.
 
-In addition to Q-learning, this Jupyter notebook also includes an implementation of a value iteration algorithm from scratch, which is accessible to users. This repository is a great opportunity for beginners to experiment with value iteration, Q-learning, and OpenAI gymnasium.
+In addition to Q-learning, this Jupyter Notebook also includes an implementation of a value iteration algorithm from scratch, which is accessible to users. This repository is a great opportunity for beginners to experiment with value iteration, Q-learning, and OpenAI gymnasium.
 
 ## Acknowledgements
 
-Make sure to cite the paper by Amirhossein Nourian et al. if you use this code for your research
+Make sure to cite the paper by Amirhossein Nourian et al. if you use this code for your research:
+{
+Nourian, A., & Sadedel, M. (2023, December). Investigating the Performance and Reliability, of the Q-Learning Algorithm in Various Unknown Environments. In 2023 11th RSI International Conference on Robotics and Mechatronics (ICRoM) (pp. 21-28). IEEE.
+(A. Nourian and M. Sadedel, [2023]([https://doi.org/10.1109/MCI.2018.2840738](https://doi.org/10.1109/ICRoM60803.2023.10412438))),.
+Some are based on transformer neural networks
+}
 
 ## Description
 
@@ -19,7 +24,7 @@ This repository contains the following items:
 3. Implementation of the Q-Learning algorithm.
 4. Visualization of Q-Learning Algorithm results.
 5. Published paper related to the code.
-6. Presentation related to this code in ICROM conference.
+6. Presentation related to this code in the ICROM conference.
 
 ## Setup 
 
@@ -31,7 +36,7 @@ To run the script you'll need the following dependencies:
 
 which should all be available through Pip.
 
-No additional setup is needed, so simply clone the repo:
+No additional setup is needed, so clone the repo:
 ```sh
 git clone https://github.com/amirhnourian/Open_AI_Frozenlake.git
 cd Open_AI_Frozenlake

@@ -9,11 +9,9 @@ In addition to Q-learning, this Jupyter Notebook also includes an implementation
 ## Acknowledgements
 
 Make sure to cite the paper by Amirhossein Nourian et al. if you use this code for your research:
-{
-Nourian, A., & Sadedel, M. (2023, December). Investigating the Performance and Reliability, of the Q-Learning Algorithm in Various Unknown Environments. In 2023 11th RSI International Conference on Robotics and Mechatronics (ICRoM) (pp. 21-28). IEEE.
-(A. Nourian and M. Sadedel, [2023]([https://doi.org/10.1109/MCI.2018.2840738](https://doi.org/10.1109/ICRoM60803.2023.10412438))),.
-Some are based on transformer neural networks
-}
+
+[Nourian, A., & Sadedel, M. (2023, December). Investigating the Performance and Reliability, of the Q-Learning Algorithm in Various Unknown Environments. In 2023 11th RSI International Conference on Robotics and Mechatronics (ICRoM) (pp. 21-28). IEEE.](https://doi.org/10.1109/ICRoM60803.2023.10412438)
+
 
 ## Description
 
